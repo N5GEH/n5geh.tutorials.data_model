@@ -26,6 +26,10 @@ The tutorials are given in form of Jupyter Notebook. This guide provides instruc
     ```bash
     pip install -r requirements.txt
     ```
+>Note: If you are using conda environment, you need to create a kernel for your conda environment: 
+> ```bash
+> python -m ipykernel install --user --name=<your_environment_name>
+> ```
 
 ## Launching Jupyter Notebook
 
