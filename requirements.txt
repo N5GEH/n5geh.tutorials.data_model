@@ -1,0 +1,7 @@
+jupyterhub
+nbconvert
+# filip~=0.4.0
+ipykernel
+filip @ git+https://github.com/RWTH-EBC/FiLiP@262-Support-entity-creation-with-keyvalues
+matplotlib~=3.5.3; python_version < '3.9'
+matplotlib~=3.8.0; python_version >='3.9'
