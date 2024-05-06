@@ -1,3 +1,4 @@
 /weather_station_schema.json
 /.ipynb_checkpoints/
 /weather_station_fiware_schema.json
+/temperature_sensor_fiware_schema.json
