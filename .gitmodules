@@ -1,0 +1,4 @@
+
+[submodule "examples_district_heating/gewv-tu-dresden.data_models"]
+	path = examples_district_heating/gewv-tu-dresden.data_models
+	url = https://github.com/gewv-tu-dresden/n5geh.data_models
