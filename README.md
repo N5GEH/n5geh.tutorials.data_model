@@ -1,6 +1,12 @@
 # Tutorials for data modeling with FIWARE
 
-The tutorials are given in form of Jupyter Notebook. This guide provides instructions for setting up your environment and launching Jupyter Notebook.
+The tutorials showcase how to create data models for specific use cases and integrate these models with FIWARE-based platforms.
+We provide examples for:
+1. [Buildings automation](example_weatherstation_buildings)
+2. [Electrical grid operation and monitoring](example_electrical_grid )
+3. [District heating](examples_district_heating)
+
+All tutorials are given in form of Jupyter Notebook. The following guideline provides instructions for setting up your environment and launching Jupyter Notebook.
 
 ## Prerequisites
 
